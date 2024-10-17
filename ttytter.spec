@@ -6,7 +6,7 @@ Summary:            Command-Line Twitter Client
 Source0:            %{version}.txt.bz2
 # http://www.floodgap.com/software/ffsl/license.txt
 Source1:            license.txt.bz2
-URL:                http://www.floodgap.com/software/ttytter/
+URL:                https://www.floodgap.com/software/ttytter/
 Group:              Communications
 License:            Floodgap Free Software License
 Requires:           perl
